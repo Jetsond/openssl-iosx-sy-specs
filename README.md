@@ -1,2 +1,2 @@
 # openssl-iosx-sy-specs
-openssl-iosx-sy build specs
+openssl-iosx-sy build specs test
